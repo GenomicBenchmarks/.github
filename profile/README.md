@@ -4,7 +4,7 @@
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-Welcome to the **Genomic Benchmarks** organization – a home for tools and datasets that make genomic sequence benchmarking transparent, trustworthy, and easy to use.
+Welcome to the **[Genomic Benchmarks](https://genomic-benchmarks.github.io/)** organization – a home for tools and datasets that make genomic sequence benchmarking transparent, trustworthy, and easy to use.
 
 A model that scores well on a biased dataset has told you nothing about biology. Our tools help you find out which one you are looking at.
 
